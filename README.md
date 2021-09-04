@@ -22,6 +22,40 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 - **Translator**: [funkyoummp / BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn)
 - **Loader**&**Keygen**&**Translator**: [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
 
+## Manual / 使用说明
+
+### Environment / 环境要求
+
+<img src="https://img.shields.io/static/v1?label=JAVA&message=v9%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=v2020.1%2b&color=blue">
+
+### For the First Time / 首次使用
+
+Double-click to run the file named `BurpLoaderKeygenCnF.jar`. If you want to use Chinese `BurpSuite Pro` please check `汉化`. Never mind licenses and licenses. Click `运行`, then `BurpSuite Pro` will be turned on and `BurpLoaderKeygenCnF` will be turned off.  
+
+双击运行`BurpLoaderKeygenCnF.jar`，如果需要使用中文`BurpSuite Pro`请勾选`汉化`，不用在意授权与许可证，点击`运行`，接着`BurpSuite Pro`会被开启，同时`BurpLoaderKeygenCnF`会被关闭。
+
+Double-click to run `BurpLoaderKeygenCnF.jar` again. fill in `授权描述` and copy `License` into `BurpSuite Pro`. then click `Manual activation` and copy `activation request` into `BurpLoaderKeygenCnF`. In the end, just copy the `Activation Response` back to `BurpSuite Pro` to complete the activation.
+
+再次双击运行`BurpLoaderKeygenCnF.jar`，填写`授权描述`，将`许可证密钥`复制入`BurpSuite Pro`，选择`手动激活`，将`激活请求`复制入`BurpLoaderKeygenCnF`，接着将`激活响应`复制回`BurpSuite Pro`，即可完成激活。
+
+### Function / 功能说明
+
+Every time `BurpLoaderKeygenCnF.jar` is opened, an update check for `BurpSuite Pro` will be performed. If you check `跳过启动器窗口` and `跳过启动器窗口时不检查更新`, you will not warn that there is a version update.
+
+每次打开`BurpLoaderKeygenCnF.jar`时，会进行针对`BurpSuite Pro`的更新检查，如果勾选了`跳过启动器窗口`和`跳过启动器窗口时不检查更新`则不会提醒版本更新。
+
+Checking `汉化` can make `BurpSuite Pro` display Chinese, but there may be some unexpected bugs.
+
+勾选`汉化`可以使`BurpSuite Pro`显示中文，但可能存在一些未预料的bug。
+
+After checking `跳过启动器窗口`, next time you open `BurpLoaderKeygenCnF.jar`, you will directly enter `BurpSuite Pro` without displaying the launcher unless there is a version update about `BurpSuite Pro`.
+
+勾选`跳过启动器窗口`后，下次打开`BurpLoaderKeygenCnF.jar`将会直接进入`BurpSuite Pro`而不显示启动器，除非`BurpSuite Pro`有版本更新。
+
+The prerequisite for the check of `跳过启动器窗口时不检查更新` is that `跳过启动器窗口` is checked. After checking `跳过启动器窗口时不检查更新`, `BurpLoaderKeygenCnF.jar` will directly enter `BurpSuite Pro` and will not warn that there is a version update.
+
+`跳过启动器窗口时不检查更新`的勾选前提是`跳过启动器窗口`被勾选。勾选`跳过启动器窗口时不检查更新`后，`BurpLoaderKeygenCnF.jar`将会直接进入`BurpSuite Pro`且不会提醒有版本更新。
+
 ## Version / 版本
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/WankkoRee/BurpLoaderKeygenCnF?label=WankkoRee%20%2F%20BurpLoaderKeygenCnF">
@@ -44,25 +78,24 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 
 ## Open Source / 开源
 
-由于原项目并不开源，所以本项目也不进行开源。
-
 Because the original project is not open source, this project is not too.
+
+由于原项目并不开源，所以本项目也不进行开源。
 
 ## Issue / 反馈
 
-如果汉化有问题，请前往 **Translator**: [funkyoummp / BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) 项目提交 issue。
-
 Please go to **Translator**: [funkyoummp / BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) project to submit an issue if you have any questions about Chinese localization.
 
-如果破解有问题，请自行寻找注册机原作者`Uncia`。
+如果汉化有问题，请前往 **Translator**: [funkyoummp / BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) 项目提交 issue。
 
 Please find `Uncia`, the original author of the Keygen, if you have any questions about cracking.
 
-如果加载有问题，请询问加载器原作者[x-Ai](https://github.com/x-Ai)。
+如果破解有问题，请自行寻找注册机原作者`Uncia`。
 
 Please ask [x-Ai](https://github.com/x-Ai), the original author of loader, if you have any questions about loader.
 
-如果有其他问题，欢迎提交 issue 。
+如果加载有问题，请询问加载器原作者[x-Ai](https://github.com/x-Ai)。
 
 Please submit the issue if you have any other questions.
 
+如果有其他问题，欢迎提交 issue 。
