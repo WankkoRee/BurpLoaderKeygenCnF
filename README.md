@@ -68,6 +68,11 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Update Timeline / 更新日志
 
+###  v1.0.3
+> - 2021/09/09: `Translator` 取消激活响应的可编辑状态
+> - 2021/09/09: `Translator` 贡献声明增加项目链接
+> - 2021/09/09: `Translator` 将check改为宽度自适应
+
 ###  v1.0.2
 > - 2021/09/09: `Translator` 增加主界面选项卡的两处翻译 ([#1](/../../issues/1))
 
