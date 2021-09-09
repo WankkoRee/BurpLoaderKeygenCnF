@@ -36,7 +36,7 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 
 ### For the First Time / 首次使用
 
-Double-click to run the file named `BurpLoaderKeygenCnF.jar`. If you want to use Chinese `BurpSuite Pro` please check `汉化`. Never mind licenses and licenses. Click `运行`, then `BurpSuite Pro` will be turned on and `BurpLoaderKeygenCnF` will be turned off.  
+Double-click to run the file named `BurpLoaderKeygenCnF.jar`. If you want to use Chinese `BurpSuite Pro` please check `汉化`. Never mind license. Click `运行`, then `BurpSuite Pro` will be turned on and `BurpLoaderKeygenCnF` will be turned off.  
 
 双击运行`BurpLoaderKeygenCnF.jar`，如果需要使用中文`BurpSuite Pro`请勾选`汉化`，不用在意授权与许可证，点击`运行`，接着`BurpSuite Pro`会被开启，同时`BurpLoaderKeygenCnF`会被关闭。
 
