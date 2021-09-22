@@ -24,9 +24,9 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 
 ## ScreenShot / 工具截图
 
-[![Launcher](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/866BAB45B35D40E5B4DC11B608A33273E02EB80E.png "Launcher")](#)
+![Launcher](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/866BAB45B35D40E5B4DC11B608A33273E02EB80E.png "Launcher")
 
-[![Repeater](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/530ACDD1CDF86E537FC1E0F2C828AF6AEA2DF261.png "Repeater")](#)
+![Repeater](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/530ACDD1CDF86E537FC1E0F2C828AF6AEA2DF261.png "Repeater")
 
 ## Manual / 使用说明
 
