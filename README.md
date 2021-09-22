@@ -1,4 +1,4 @@
-# BurpLoaderKeygenCnF <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/WankkoRee/BurpLoaderKeygenCnF?style=social">
+# BurpLoaderKeygenCnF [![GitHub Repo stars](https://img.shields.io/github/stars/WankkoRee/BurpLoaderKeygenCnF?style=social "GitHub Repo stars")](https://github.com/WankkoRee/BurpLoaderKeygenCnF)
 
 BurpSuite Pro Loader & Keygen & Translator Fix ( BurpSuite version v2020.1 - ∞ )
 
@@ -24,15 +24,15 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 
 ## ScreenShot / 工具截图
 
-![Launcher](image/866BAB45B35D40E5B4DC11B608A33273E02EB80E.png "Launcher")
+[![Launcher](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/866BAB45B35D40E5B4DC11B608A33273E02EB80E.png "Launcher")](#)
 
-![Repeater](image/530ACDD1CDF86E537FC1E0F2C828AF6AEA2DF261.png "Repeater")
+[![Repeater](https://raw.githubusercontent.com/WankkoRee/BurpLoaderKeygenCnF/master/image/530ACDD1CDF86E537FC1E0F2C828AF6AEA2DF261.png "Repeater")](#)
 
 ## Manual / 使用说明
 
 ### Environment / 环境要求
 
-<img src="https://img.shields.io/static/v1?label=JAVA&message=v9%2b&color=blue"> <img src="https://img.shields.io/static/v1?label=BurpSuitePro&message=v2020.1%2b&color=blue">
+[![](https://img.shields.io/static/v1?label=JAVA&message=v9%2b&color=blue)](#) [![](https://img.shields.io/static/v1?label=BurpSuitePro&message=v2020.1%2b&color=blue)](#)
 
 ### For the First Time / 首次使用
 
@@ -64,7 +64,7 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Version / 版本
 
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/WankkoRee/BurpLoaderKeygenCnF?label=WankkoRee%20%2F%20BurpLoaderKeygenCnF">
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/WankkoRee/BurpLoaderKeygenCnF?label=WankkoRee%20%2F%20BurpLoaderKeygenCnF "GitHub release (latest by date)")](https://github.com/WankkoRee/BurpLoaderKeygenCnF/releases)
 
 ## Update Timeline / 更新日志
 
