@@ -116,3 +116,7 @@ Please ask [x-Ai](https://github.com/x-Ai), the original author of loader, if yo
 Please submit the issue if you have any other questions.
 
 如果有其他问题，欢迎提交 issue 。
+
+## Trend / 趋势
+
+[![Stargazers over time](https://starchart.cc/WankkoRee/BurpLoaderKeygenCnF.svg)](https://starchart.cc/WankkoRee/BurpLoaderKeygenCnF)
