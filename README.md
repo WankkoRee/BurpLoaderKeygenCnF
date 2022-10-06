@@ -68,6 +68,9 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Update Timeline / 更新日志
 
+### v1.1.1
+> - 2022/10/06: `Loader` 添加了指定 Java 命令和自定义参数
+
 ### v1.1.0
 > - 2022/10/06: `Loader` 重构项目
 > - 2022/10/06: `Loader` 缝合个适配2022.9的破解，来自 [x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite)
