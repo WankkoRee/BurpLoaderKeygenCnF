@@ -16,7 +16,7 @@ Forked from [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/Bu
 
 ## Composition / 构成
 
-- **Loader**: [x-Ai / BurpSuiteLoader](https://github.com/x-Ai/BurpSuiteLoader)
+- **Loader**: [x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite)
 - **Keygen**: Uncia / BurpSuite Keygen
 - **Loader**&**Keygen**: [surferxyz / BurpSuitePro Loader&Keygen](https://forum.exetools.com/showpost.php?p=112008&postcount=83)
 - **Translator**: [funkyoummp / BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn)
@@ -68,18 +68,22 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Update Timeline / 更新日志
 
-###  v1.0.3
+### v1.1.0
+> - 2022/10/06: `Loader` 重构项目
+> - 2022/10/06: `Loader` 缝合个适配2022.9的破解，来自 [x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite)
+
+### v1.0.3
 > - 2021/09/09: `Translator` 取消激活响应的可编辑状态
 > - 2021/09/09: `Translator` 贡献声明增加项目链接
 > - 2021/09/09: `Translator` 将check改为宽度自适应
 
-###  v1.0.2
+### v1.0.2
 > - 2021/09/09: `Translator` 增加主界面选项卡的两处翻译 ([#1](/../../issues/1))
 
-###  v1.0.1
+### v1.0.1
 > - 2021/09/09: `Keygen` 给一些文本标签预留空间，防止系统默认字体字号和字重较大的情况下显示不全 ([#1](/../../issues/1))
 
-###  v1.0.0
+### v1.0.0
 > - 2021/09/04: `Keygen` 修复无法结束进程的问题
 > - 2021/09/04: `Keygen` 窗口标题加入版本信息
 > - 2021/09/04: `Keygen` 新版本提醒细节
