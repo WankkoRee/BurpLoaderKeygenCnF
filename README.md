@@ -68,6 +68,11 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Update Timeline / 更新日志
 
+### v1.1.2
+
+> - 2022/12/05: 抄个2022.11 Loader，来自 [x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite)
+> - 2022/12/05: 抄个2022.11 Keygen，来自 [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
+
 ### v1.1.1
 > - 2022/10/06: `Loader` 添加了指定 Java 命令和自定义参数
 
