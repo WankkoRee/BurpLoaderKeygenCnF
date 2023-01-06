@@ -68,6 +68,10 @@ The prerequisite for the check of `跳过启动器窗口时不检查更新` is t
 
 ## Update Timeline / 更新日志
 
+### v1.1.3
+
+> - 2023/01/06: 调整自定义参数顺序，添加相关参数，感谢 [Z-fly](https://github.com/Z-fly) 和 [h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
+
 ### v1.1.2
 
 > - 2022/12/05: 抄个2022.11 Loader，来自 [x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite)
